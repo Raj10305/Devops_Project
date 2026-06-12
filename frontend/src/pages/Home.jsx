@@ -8,7 +8,7 @@ const Home = () => {
       <header className="cover__topbar">
         <a className="cover__brand" href="#top">
           <span className="cover__brand-mark" aria-hidden="true" />
-          <span className="cover__brand-text">Devops Project</span>
+          <span className="cover__brand-text"> Project</span>
         </a>
         <nav className="cover__nav" aria-label="Primary">
           <a href="#features">Features</a>
