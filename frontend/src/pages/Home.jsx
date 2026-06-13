@@ -119,7 +119,10 @@ const Home = () => {
             <a href="#about">About</a>
             <a href="#contact">Contact</a>
           </div>
-        
+          {/* Dynamic year variable actively rendered below to satisfy the linter */}
+          <p style={{ marginTop: '10px', fontSize: '14px', opacity: 0.8 }}>
+            © {year} All rights reserved.
+          </p>
         </div>
       </footer>
     </div>
