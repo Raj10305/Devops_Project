@@ -119,7 +119,7 @@ const Home = () => {
             <a href="#about">About</a>
             <a href="#contact">Contact</a>
           </div>
-          <small className="cover__copyright">&copy; {year} All rights reserved.</small>
+        
         </div>
       </footer>
     </div>
